@@ -1,10 +1,21 @@
 # CNNinKeras
 **Udacity - Artificial Intelligence Nanodegree Program**
+
 AI - Convolutional Neural Network in Keras using the Cifar-10 dataset
 
 # CNN in Keras
 
 This project is part of **Udacity´s Artificial Intelligence Nanodegree Program**. Here you will find my personal solution to the challenge. The following project can be run using a Local Machine or using an external GPU (Solution provided by **Amazon Web Services** is recommended). Next, you can follow Udacitys instructions to install the neccessary dependencies on a local machine or on AWS.
+
+In this project, we train a **Conviolutional Neural Network** and a **Multi-Layer Perceptron** to classify images using the Cifar-10 dataset classification.
+
+Follow the instructions to install the required environment and check them both:
+
+	(pmaienv)$ jupyter notebook cifar10_cnn.ipynb
+	
+Or:
+
+	(pmaienv)$ jupyter notebbok cifar10_mlp.ipynb
 
 
 ## CIFAR-10 Dataset
