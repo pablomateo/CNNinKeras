@@ -1,7 +1,7 @@
 # CNNinKeras
 **Udacity - Artificial Intelligence Nanodegree Program**
 
-AI - Convolutional Neural Network in Keras using the Cifar-10 dataset
+AI - Convolutional Neural Network in Keras using the Cifar-10 dataset.
 
 # CNN in Keras
 
